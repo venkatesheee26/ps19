@@ -1,0 +1,8 @@
+D:\ps\ps19\ps19\bin\Debug\ps19.exe.config
+D:\ps\ps19\ps19\bin\Debug\ps19.exe
+D:\ps\ps19\ps19\bin\Debug\ps19.pdb
+D:\ps\ps19\ps19\obj\Debug\ps19.csproj.AssemblyReference.cache
+D:\ps\ps19\ps19\obj\Debug\ps19.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps19\ps19\obj\Debug\ps19.csproj.CoreCompileInputs.cache
+D:\ps\ps19\ps19\obj\Debug\ps19.exe
+D:\ps\ps19\ps19\obj\Debug\ps19.pdb
